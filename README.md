@@ -4,7 +4,7 @@
     <p>
     Cette application de bureau est conçue pour trouver la solution optimale en nombres réels pour des problèmes linéaires en utilisant Java et Swing. Elle vise à offrir aux utilisateurs un outil intuitif et efficace pour résoudre des problèmes d'optimisation linéaire, couramment rencontrés dans la recherche opérationnelle, l'économie et divers domaines de l'ingénierie.
     </p>
-    <h3>Interface Utilisateur<h3>
+    <h3>Interface Utilisateur</h3>
     <ul>
         <li>
         Design Intuitif : L'application présente une interface conviviale conçue avec Swing, permettant aux utilisateurs de saisir facilement les contraintes de leur problème linéaire et les fonctions objectives.

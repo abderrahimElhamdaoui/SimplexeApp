@@ -71,9 +71,9 @@
     <p align="center">
         <img src="./images/9.png">
     </p>
-    <h3 id="lecture-du-dataset">8. </h3>
+    <h3 id="lecture-du-dataset">10. </h3>
      <p align="center">
-    <img src="./images/10.gif" alt="lancer application">
+        <img src="./images/10.gif">
     </p>
     <h2>Gestion des Exceptions</h2>
     <h3 id="lancer-lapplication">1.</h3>

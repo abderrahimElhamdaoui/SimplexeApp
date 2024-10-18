@@ -31,14 +31,11 @@
         Swing : L'interface utilisateur est construite en utilisant Swing, offrant une expérience utilisateur réactive et esthétique.
         </li>
     </ul>
-
     <h2 id="les-processus">Les processus</h2>
-
     <h3 id="lancer-lapplication">1. Lancer l’application</h3>
     <p align="center">
     <img src="./images/1.png" alt="lancer application">
     </p>
-
     <h3 id="choisir-le-dataset">2. </h3>
     <p align="center">
     <img src="./images/2.png" alt="Choisir dataset">
@@ -47,22 +44,18 @@
     <p align="center">
     <img src="./images/3.png" alt="ouvrir.png">
     </p>
-
     <h3 id="lecture-du-dataset">4. </h3>
     <p align="center">
         <img src="./images/4.png" alt="lecture dataset">
     </p>
-
     <h3 id="lecture-du-dataset">5. </h3>
     <p align="center">
         <img src="./images/5.png" alt="lecture dataset">
     </p>
-
     <video width="740" height="460" controls>
         <source src="./images/6.webm" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-   
     <h3 id="lecture-du-dataset">7. </h3>
     <p align="center">
         <img src="./images/6.png" alt="lecture dataset">
@@ -71,6 +64,5 @@
     <p align="center">
         <img src="./images/7.png" alt="lecture dataset">
     </p>
-
     </body>
 </html>

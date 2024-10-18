@@ -46,23 +46,43 @@
     </p>
     <h3 id="lecture-du-dataset">4. </h3>
     <p align="center">
-        <img src="./images/4.png" alt="lecture dataset">
+        <img src="./images/4.png">
     </p>
     <h3 id="lecture-du-dataset">5. </h3>
     <p align="center">
-        <img src="./images/5.png" alt="lecture dataset">
+        <img src="./images/5.png">
     </p>
     <h3 id="lecture-du-dataset">6. </h3>
     <p align="center">
-        <img src="./images/6.gif" alt="lecture dataset">
+        <img src="./images/6.gif">
     </p>
     <h3 id="lecture-du-dataset">7. </h3>
     <p align="center">
-        <img src="./images/7.png" alt="lecture dataset">
+        <img src="./images/7.png">
     </p>
     <h3 id="lecture-du-dataset">8. </h3>
     <p align="center">
-        <img src="./images/2phase.gif" alt="lecture dataset">
+        <img src="./images/8.gif">
+    </p>
+    <h3 id="lecture-du-dataset">9. </h3>
+    <p align="center">
+        <img src="./images/9.png">
+    </p>
+    <h3 id="lecture-du-dataset">8. </h3>
+    <video width="640" height="360" controls>
+        <source src="./images/10.webm" type="video/mp4">
+    </video>
+    <h3 id="lancer-lapplication">1.</h3>
+    <p align="center">
+    <img src="./images/exceptions1.png" alt="lancer application">
+    </p>
+    <h3 id="choisir-le-dataset">2. </h3>
+    <p align="center">
+    <img src="./images/exeption2.png" alt="Choisir dataset">
+    </p>
+    <h3 id="choisir-le-dataset">3. </h3>
+    <p align="center">
+    <img src="./images/exception3.png" alt="ouvrir.png">
     </p>
     </body>
 </html>

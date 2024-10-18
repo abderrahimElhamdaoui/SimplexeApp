@@ -72,9 +72,9 @@
         <img src="./images/9.png">
     </p>
     <h3 id="lecture-du-dataset">8. </h3>
-    <video width="640" height="360" controls>
-        <source src="./images/10.gif" type="video/mp4">
-    </video>
+     <p align="center">
+    <img src="./images/10.gif" alt="lancer application">
+    </p>
     <h2>Gestion des Exceptions</h2>
     <h3 id="lancer-lapplication">1.</h3>
     <p align="center">

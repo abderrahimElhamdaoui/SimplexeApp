@@ -52,9 +52,9 @@
     <p align="center">
         <img src="./images/5.png" alt="lecture dataset">
     </p>
+    <h3 id="lecture-du-dataset">6. </h3>
     <video width="740" height="460" controls>
         <source src="./images/6.webm" type="video/mp4">
-        Your browser does not support the video tag.
     </video>
     <h3 id="lecture-du-dataset">7. </h3>
     <p align="center">

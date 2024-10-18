@@ -53,16 +53,16 @@
         <img src="./images/5.png" alt="lecture dataset">
     </p>
     <h3 id="lecture-du-dataset">6. </h3>
-    <video width="740" height="460" controls>
-        <source src="./images/6.webm" type="video/mp4">
-    </video>
+    <p align="center">
+        <img src="./images/6.gif" alt="lecture dataset">
+    </p>
     <h3 id="lecture-du-dataset">7. </h3>
     <p align="center">
-        <img src="./images/6.png" alt="lecture dataset">
+        <img src="./images/7.png" alt="lecture dataset">
     </p>
     <h3 id="lecture-du-dataset">8. </h3>
     <p align="center">
-        <img src="./images/7.png" alt="lecture dataset">
+        <img src="./images/2phase.gif" alt="lecture dataset">
     </p>
     </body>
 </html>

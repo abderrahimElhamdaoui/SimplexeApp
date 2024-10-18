@@ -48,6 +48,7 @@
     <p align="center">
         <img src="./images/4.png">
     </p>
+    <h2>Exemple de l'Algorithme du Simplexe - Phase 2</h2>
     <h3 id="lecture-du-dataset">5. </h3>
     <p align="center">
         <img src="./images/5.png">
@@ -56,6 +57,7 @@
     <p align="center">
         <img src="./images/6.gif">
     </p>
+    <h2>Exemple de l'Algorithme du Simplexe à 2 Phases</h2>
     <h3 id="lecture-du-dataset">7. </h3>
     <p align="center">
         <img src="./images/7.png">
@@ -64,6 +66,7 @@
     <p align="center">
         <img src="./images/8.gif">
     </p>
+    <h2>Exemple de l'Algorithme Dual du Simplexe</h2>
     <h3 id="lecture-du-dataset">9. </h3>
     <p align="center">
         <img src="./images/9.png">

@@ -73,8 +73,9 @@
     </p>
     <h3 id="lecture-du-dataset">8. </h3>
     <video width="640" height="360" controls>
-        <source src="./images/10.webm" type="video/mp4">
+        <source src="./images/10.mp4" type="video/mp4">
     </video>
+    <h2>Gestion des Exceptions</h2>
     <h3 id="lancer-lapplication">1.</h3>
     <p align="center">
     <img src="./images/exceptions1.png" alt="lancer application">
